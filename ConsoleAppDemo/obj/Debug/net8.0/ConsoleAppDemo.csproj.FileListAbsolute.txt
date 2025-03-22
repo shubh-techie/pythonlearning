@@ -1,0 +1,15 @@
+/Users/shubhprabhat/Documents/GitHub/pythonlearning/ConsoleAppDemo/bin/Debug/net8.0/ConsoleAppDemo
+/Users/shubhprabhat/Documents/GitHub/pythonlearning/ConsoleAppDemo/bin/Debug/net8.0/ConsoleAppDemo.deps.json
+/Users/shubhprabhat/Documents/GitHub/pythonlearning/ConsoleAppDemo/bin/Debug/net8.0/ConsoleAppDemo.runtimeconfig.json
+/Users/shubhprabhat/Documents/GitHub/pythonlearning/ConsoleAppDemo/bin/Debug/net8.0/ConsoleAppDemo.dll
+/Users/shubhprabhat/Documents/GitHub/pythonlearning/ConsoleAppDemo/bin/Debug/net8.0/ConsoleAppDemo.pdb
+/Users/shubhprabhat/Documents/GitHub/pythonlearning/ConsoleAppDemo/obj/Debug/net8.0/ConsoleAppDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shubhprabhat/Documents/GitHub/pythonlearning/ConsoleAppDemo/obj/Debug/net8.0/ConsoleAppDemo.AssemblyInfoInputs.cache
+/Users/shubhprabhat/Documents/GitHub/pythonlearning/ConsoleAppDemo/obj/Debug/net8.0/ConsoleAppDemo.AssemblyInfo.cs
+/Users/shubhprabhat/Documents/GitHub/pythonlearning/ConsoleAppDemo/obj/Debug/net8.0/ConsoleAppDemo.csproj.CoreCompileInputs.cache
+/Users/shubhprabhat/Documents/GitHub/pythonlearning/ConsoleAppDemo/obj/Debug/net8.0/ConsoleAppDemo.sourcelink.json
+/Users/shubhprabhat/Documents/GitHub/pythonlearning/ConsoleAppDemo/obj/Debug/net8.0/ConsoleAppDemo.dll
+/Users/shubhprabhat/Documents/GitHub/pythonlearning/ConsoleAppDemo/obj/Debug/net8.0/refint/ConsoleAppDemo.dll
+/Users/shubhprabhat/Documents/GitHub/pythonlearning/ConsoleAppDemo/obj/Debug/net8.0/ConsoleAppDemo.pdb
+/Users/shubhprabhat/Documents/GitHub/pythonlearning/ConsoleAppDemo/obj/Debug/net8.0/ConsoleAppDemo.genruntimeconfig.cache
+/Users/shubhprabhat/Documents/GitHub/pythonlearning/ConsoleAppDemo/obj/Debug/net8.0/ref/ConsoleAppDemo.dll
