@@ -18,7 +18,7 @@ public class ArrayDemo
         return -1;
     }
 
-    public  List<int> GetEvens(int[] array)
+    public List<int> GetEvens(int[] array)
     {
         List<int> events = new List<int>();
         for (int i = 0; i < array.Length; i++)
@@ -40,6 +40,16 @@ public class ArrayDemo
             {
                 result.Add(arr[i]);
             }
+        }
+        return result;
+    }
+
+    public static List<char> splitString(string str)
+    {
+        List<char> result = new List<char>();
+        for (int i = 0; i < str.Length; i++)
+        {
+            result.Add(str[i]);
         }
         return result;
 
